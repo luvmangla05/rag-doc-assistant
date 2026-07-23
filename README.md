@@ -81,6 +81,5 @@ rag_assignment/
 - **Cohere** (`command-r-08-2024`) — answer generation
 - **PyPDF2** — PDF text extraction
 
-<img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/9fb17904-090e-462e-b146-6147f7ceba49" />
 <img width="1920" height="1080" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/74cfebdf-324a-41a3-8041-9d48c44d2637" />
-
+<img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/9fb17904-090e-462e-b146-6147f7ceba49" />
