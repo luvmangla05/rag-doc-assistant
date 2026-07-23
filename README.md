@@ -4,6 +4,9 @@ A Streamlit app that lets you upload a PDF or TXT document, retrieves the most
 relevant chunks for a question using local embeddings + cosine similarity, and
 generates a grounded answer using Cohere's Chat API.
 
+## Working Link 
+https://rag-search.streamlit.app/
+
 ## Features
 
 - **Custom document loader** — reads TXT/PDF and splits into overlapping chunks using `RecursiveCharacterTextSplitter`
@@ -24,6 +27,11 @@ rag_assignment/
 ├── notebook.ipynb       # Development/testing notebook
 └── screenshots/         # Screenshots of the app running
 ```
+
+## Screenshots 
+
+<img width="1920" height="1080" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/74cfebdf-324a-41a3-8041-9d48c44d2637" />
+<img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/9fb17904-090e-462e-b146-6147f7ceba49" />
 
 ## Functions (`functions.py`)
 
@@ -81,5 +89,3 @@ rag_assignment/
 - **Cohere** (`command-r-08-2024`) — answer generation
 - **PyPDF2** — PDF text extraction
 
-<img width="1920" height="1080" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/74cfebdf-324a-41a3-8041-9d48c44d2637" />
-<img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/9fb17904-090e-462e-b146-6147f7ceba49" />
